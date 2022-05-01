@@ -48,7 +48,7 @@ export default function Home() {
             <p></p>
           </a>
 
-          <a href="https://discord.gg/GCc95mCG7v" className={styles.card}>
+          <a href="https://discord.gg/Yq5AN559ER" className={styles.card}>
             <i className={styles.icon}>
               <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" viewBox="0 0 16 16">
                 <path d="M6.552 6.712c-.456 0-.816.4-.816.888s.368.888.816.888c.456 0 .816-.4.816-.888.008-.488-.36-.888-.816-.888zm2.92 0c-.456 0-.816.4-.816.888s.368.888.816.888c.456 0 .816-.4.816-.888s-.36-.888-.816-.888z" />
